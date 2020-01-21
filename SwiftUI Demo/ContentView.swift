@@ -20,7 +20,7 @@ struct ContentView: View {
             //Text View
             HStack {
                 VStack(alignment: .leading) {
-                    Text("Romna Park")
+                    Text("Ramna Park")
                         .font(.headline)
                     Text("Central Park of Bangladesh")
                         .font(.subheadline)
